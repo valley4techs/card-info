@@ -20,7 +20,7 @@
 - **ملف _card.scss:** يشرح تنسيقات CSS لبنية وتصميم البطاقة الرئيسية.
 - **ملف _variables.scss:** يحدد المتغيرات المستخدمة في الألوان والخطوط.
 
-### [اقرأ المقالة على مدونتنا للاطلاع على شرع الشيفرة البرمجية للمشروع](https://www.valley4techs.com/2023/11/responsive-profile-card-html-css.html)
+### [اقرأ المقالة على مدونتنا للاطلاع على شرح الشيفرة البرمجية للمشروع](https://www.valley4techs.com/2023/11/responsive-profile-card-html-css.html)
 
 ---
 
